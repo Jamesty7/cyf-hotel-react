@@ -1,4 +1,6 @@
 import React from "react";
+// import bookings from "./Bookings";
+// import Search from "./Search";
 
 const SearchButton = () => {
   return (
